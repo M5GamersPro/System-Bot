@@ -1,0 +1,9 @@
+{
+  "name": "discord-system-bot",
+  "version": "1.0.0",
+  "description": "System Bot",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  }
+}
